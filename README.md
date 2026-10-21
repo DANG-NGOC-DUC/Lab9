@@ -119,7 +119,7 @@ test_tc08_dynamic_loading_explicit_wait ........... PASSED
 
 **Tổng kết:** 9/9 test PASSED (tỷ lệ 100%).
 
-1.png
+![Kết quả chạy Selenium](1.png)
 
 ## 9. Xử lý sự cố thường gặp
 
